@@ -35,8 +35,6 @@ An AI-powered platform tailored for **law firms and legal professionals** to sim
   <img src="./screenshots/UI-10.png" width="250"/>
 </p>
 
-> 💡 *Place your screenshot images in a `screenshots/` folder in the root of your repo.*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -100,22 +98,8 @@ npm run dev
 └── README.md
 ```
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
 ## 📄 License
 
 [MIT](./LICENSE)
 
 ---
-
-## 📬 Contact
-
-- Created by [Your Name](https://yourwebsite.com)
-- Email: your@email.com
-- GitHub: [@your-username](https://github.com/your-username)
