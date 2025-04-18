@@ -20,19 +20,19 @@ An AI-powered platform tailored for **law firms and legal professionals** to sim
 ### Web App & Add-in Preview
 
 <p float="left">
-  <img src="./screenshots/UI-1.png" width="250"/>
-  <img src="./screenshots/UI-2.png" width="250"/>
-  <img src="./screenshots/UI-3.png" width="250"/>
-  <img src="./screenshots/UI-4.png" width="250"/>
-  <img src="./screenshots/UI-5.png" width="250"/>
+  <img src="./public/screenshots/UI-1.png" width="250"/>
+  <img src="./public/screenshots/UI-2.png" width="250"/>
+  <img src="./public/screenshots/UI-3.png" width="250"/>
+  <img src="./public/screenshots/UI-4.png" width="250"/>
+  <img src="./public/screenshots/UI-5.png" width="250"/>
 </p>
 
 <p float="left">
-  <img src="./screenshots/UI-6.png" width="250"/>
-  <img src="./screenshots/UI-7.png" width="250"/>
-  <img src="./screenshots/UI-8.png" width="250"/>
-  <img src="./screenshots/UI-9.png" width="250"/>
-  <img src="./screenshots/UI-10.png" width="250"/>
+  <img src="./public/screenshots/UI-6.png" width="250"/>
+  <img src="./public/screenshots/UI-7.png" width="250"/>
+  <img src="./public/screenshots/UI-8.png" width="250"/>
+  <img src="./public/screenshots/UI-9.png" width="250"/>
+  <img src="./public/screenshots/UI-10.png" width="250"/>
 </p>
 
 ---
