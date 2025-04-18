@@ -1,0 +1,30 @@
+.success-modal .ant-modal-content {
+  width: 400px !important;
+  border-radius: 12px;
+}
+
+.success-modal .ant-modal-header {
+  height: 32px !important;
+}
+
+.success-modal .ant-modal-close {
+  display: none !important;
+}
+
+.success-modal .ant-modal-title {
+  font-size: 18px !important;
+  line-height: 28px !important;
+  font-weight: 600 !important;
+  color: #101828 !important;
+}
+
+.success-modal .ant-modal-footer {
+  display: flex;
+  gap: 12px;
+  padding-top: 20px;
+}
+
+.success-modal .ant-modal-footer button {
+  height: 44px;
+  width: 100% !important;
+}

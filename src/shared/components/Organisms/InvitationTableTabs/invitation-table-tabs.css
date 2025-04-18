@@ -1,0 +1,19 @@
+.ant-tabs-nav-list {
+  padding: 0 32px 0 32px;
+  border: none !important;
+}
+.ant-tabs-nav-list :hover {
+  color: #6941c6 !important;
+}
+.ant-tabs-tab p {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+.ant-tabs-tab-active p {
+  color: #6941c6 !important;
+}
+
+.ant-tabs-ink-bar {
+  background: #6941c6 !important;
+}

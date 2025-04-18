@@ -1,0 +1,134 @@
+
+
+  
+
+
+body {
+  background: #f5f5f5;
+
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+    padding: 164.301px 0px 164.774px 0px; 
+    overflow: hidden;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 40px 40px;
+  background-color: #ffffff;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+.logo {
+  text-align: left;
+  padding-bottom: 40px;
+}
+
+.welcome-text {
+  text-align: left;
+  padding-bottom: 24px;
+  color: #242424;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.label {
+  margin-bottom: 5px;
+  padding: 8px;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+
+  align-self: stretch;
+  border-bottom: 1px solid #ddd; /* Add border at the bottom of the field */
+  margin-bottom: 24px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.error-message {
+  color: #f00;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.forgot-password {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  padding-bottom: 24px;
+  font-size: 14px;
+  color: #2F2F4A; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.submit-button {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  flex: 1 0 0;
+  border-radius: 4px;
+  background-color: #4f52b2;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 100%;
+}
+
+.submit-button.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.not-member {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  font-size: 14px;
+  color: #2F2F4A; 
+  padding: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.forgot-password a {
+  text-decoration: none;
+  color: #2F2F4A; 
+}
+.not-member a {
+  text-decoration: none;
+  color: #2F2F4A; 
+}

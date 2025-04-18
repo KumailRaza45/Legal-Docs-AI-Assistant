@@ -1,0 +1,23 @@
+.tag {
+    
+    border-radius: 16px;
+    border-width:1px;
+    padding:2px 8px 2px 6px;
+    gap:calc(4px);
+    mix-blend-mode: multiply;
+}
+
+.success{
+    background-color:#ABEFC6;
+    border:1px solid #067647;
+    color:#067647;
+    font-size: 12px;
+}
+
+.danger {
+    background-color:#FECDCA;
+    border:1px solid #B42318;
+    color:#B42318;
+    font-size: 12px;
+
+}

@@ -1,0 +1,73 @@
+.add-attorney-modal .ant-modal-content {
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.add-attorney-modal .ant-modal-header {
+    background-color: white;
+    padding: 16px 20px;
+    border-bottom: none;
+}
+
+.add-attorney-modal .ant-modal-title {
+    font-size: 24px;
+    color: black;
+}
+
+.add-attorney-modal .ant-modal-body {
+    padding: 10px;
+}
+
+.add-attorney-modal .ant-modal-close {
+    color: black;
+    font-size: 18px;
+}
+
+.modal-close-x {
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.add-attorney-modal .ant-form-item-label>label {
+    color: #888;
+}
+
+.add-attorney-modal .ant-input {
+    border-radius: 8px;
+    border-color: #d9d9d9;
+}
+
+.add-attorney-modal .ant-form-item-control-input-content {
+    display: flex;
+    align-items: center;
+}
+
+.form-button {
+    height: 40px;
+    border-radius: 8px;
+    margin-right: 8px;
+}
+
+.cancel-button {
+    background: none;
+    border: 1px solid #d9d9d9;
+    color: black;
+    flex-basis: 50%;
+}
+
+.send-invite-button {
+    background-color: #1890ff;
+    border: none;
+    color: white;
+    flex-basis: 50%;
+
+}
+
+/* Adapt these media queries as per your needs */
+@media (max-width: 768px) {
+    .add-attorney-modal .ant-modal-content {
+        width: 95vw;
+    }
+}

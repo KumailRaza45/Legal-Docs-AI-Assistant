@@ -1,0 +1,28 @@
+.add-edit-modal .ant-modal-content {
+  width: 480px !important;
+  height: 328px !important;
+  border-radius: 12px;
+}
+
+.add-edit-modal .ant-modal-header {
+  height: 32px !important;
+}
+
+.add-edit-modal .ant-modal-title {
+  font-size: 18px !important;
+  line-height: 28px !important;
+  font-weight: 600 !important;
+  color: #101828 !important;
+}
+
+.form-button {
+  width: 48.6%;
+  height: 44px;
+  font-weight: 600;
+}
+
+.form-button:disabled {
+  background-color: #2970ff;
+  color: white;
+  opacity: 50%;
+}
