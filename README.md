@@ -40,10 +40,9 @@ An AI-powered platform tailored for **law firms and legal professionals** to sim
 ## 🛠️ Tech Stack
 
 - **Frontend**: React / Next.js / TailwindCSS
-- **Backend**: Node.js / Express (if applicable)
+- **Backend**: Node.js / Express
 - **AI**: OpenAI API
 - **Add-in**: Office.js (Microsoft Word Add-in)
-- **Deployment**: Vercel / Azure / Netlify (choose as applicable)
 
 ---
 
